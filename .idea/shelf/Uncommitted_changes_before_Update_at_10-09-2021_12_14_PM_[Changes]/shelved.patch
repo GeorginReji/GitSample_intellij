@@ -1,0 +1,15 @@
+Index: sample1.txt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>Hai this is my sample text for and there are various versions like.\r\nSample CMT 1\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/sample1.txt b/sample1.txt
+--- a/sample1.txt	(revision e3d34a89ed8d4baff15c0b9fdd768d22d026b357)
++++ b/sample1.txt	(date 1631256211369)
+@@ -1,2 +1,3 @@
+ Hai this is my sample text for and there are various versions like.
+ Sample CMT 1
++Sample cmt 3
+\ No newline at end of file
